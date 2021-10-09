@@ -1,1 +1,1 @@
-# nandhini.github.io
+# Online Student result publishing system
